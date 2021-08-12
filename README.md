@@ -19,4 +19,6 @@ Effective Continuous-Time Formulation for Short-Term Scheduling. 1. Multipurpose
 #### 3.1 Example1 P2
 #### 3.2 Example2 P10
 #### 3.3 Example3 P13
-
+#### 3.4 Robust Scheduling problem:
+  + Robust processing time of each step 
+  + Article url:A Comparative Theoretical and Computational Study on Robust Counterpart Optimization: I. Robust Linear Optimization and Robust Mixed Integer Linear Optimization[https://doi.org/10.1021/ie200150p]
