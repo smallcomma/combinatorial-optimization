@@ -11,3 +11,12 @@ Benders decomposition[http://dx.doi.org/10.1002/9780470400531.eorms0104]
 + Benders decomposition
 + Article url:
 Benders decomposition with GAMS[https://www.researchgate.net/profile/Erwin-Kalvelagen/publication/2552969_Benders_Decomposition_for_Stochastic_Programming_with_GAMS/links/0a85e5362481186d8c000000/Benders-Decomposition-for-Stochastic-Programming-with-GAMS.pdf]
+### 3.Sheduling Problem
++ Short term scheduling problem
++ Event points
++ Article url:
+Effective Continuous-Time Formulation for Short-Term Scheduling. 1. Multipurpose Batch Processes[https://doi.org/10.1021/ie990108r]
+#### 3.1 Example1 P2
+#### 3.2 Example2 P10
+#### 3.3 Example3 P13
+
