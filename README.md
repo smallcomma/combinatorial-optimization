@@ -22,3 +22,11 @@ Effective Continuous-Time Formulation for Short-Term Scheduling. 1. Multipurpose
 #### 3.4 Robust Scheduling problem:
   + Robust processing time of each step 
   + Article url:A Comparative Theoretical and Computational Study on Robust Counterpart Optimization: I. Robust Linear Optimization and Robust Mixed Integer Linear Optimization[https://doi.org/10.1021/ie200150p]
+### 4.Robust Transportation Problem
++ Right-hand-side parameters robust
++ Column-and-constraint generation method
++ Article url:
+Solving two-stage robust optimization problems using a column-and- constraint generation method[https://doi.org/10.1016/j.orl.2013.05.003]
+#### 4.1 3x3 P4
+#### 4.2 30x30 Random-Parameters P5
+  + Robust location transportation problems under uncertain demands, Discrete Applied Mathematics[https://doi.org/10.1016/j.dam.2011.09.015]
