@@ -30,3 +30,6 @@ Solving two-stage robust optimization problems using a column-and- constraint ge
 #### 4.1 3x3 P4
 #### 4.2 30x30 Random-Parameters P5
   + Robust location transportation problems under uncertain demands, Discrete Applied Mathematics[https://doi.org/10.1016/j.dam.2011.09.015]
+### 5.Cutting Stock Problems
++ Steel cutting problem
++ Column generation method
